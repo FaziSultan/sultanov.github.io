@@ -1,0 +1,201 @@
+PersonalData:
+  Title: Личные данные
+  Icon: fas fa-user
+  Suffix: "- Резюме"
+  Name: Фазлиддин Султонов
+  CurrentWorkplace: Canada Life Assurance Europe plc
+  Contacts:
+    - Icon: fas fa-user
+      Name: Имя
+      Value: Фазлиддин Султонов
+    - Icon: fas fa-map-marker-alt
+      Name: Адрес
+      Value: Kirchhainer Str. 51, 60433 Франкфурт, Германия
+    - Icon: fas fa-mobile-alt
+      Name: Телефон
+      Value: +49 (0) 1525 3686829
+    - Icon: fas fa-envelope
+      Name: E-мейл
+      Value: sultanov@emailn.de
+    - Icon: fas fa-globe
+      Name: Вебсайт
+      Value: sultonov.co
+    - Icon: far fa-calendar-alt
+      Name: Дата рождения
+      Value: 09.02.1988
+    - Icon: fas fa-globe-americas
+      Name: Место рождения
+      Value: Кашкадарьинская область, Узбекистан
+
+BriefProfile:
+  Title: Краткий профиль
+  Icon: fas fa-th-list
+  Sections:
+    - Name: Сильности
+      Items:
+        - Целеустремленный
+        - Гибкость
+        - Устойчивость
+        - Коллективная работа
+        - Социальная компетентность
+        - Готовность учиться
+        - Приобретение новых знаний
+
+Experience:
+  Title: Опыт работы
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: Business Customisation Administrator
+      Empolyer: Canada Life Assurance Europe plc, Neu-Isenburg, Германия
+      Website: https://www.canadalife.de/
+      StartDate: 07/2018
+      EndDate: Текущий
+      Details:
+        - Создание ежедневных, еженедельных, ежемесячных административных отчетов.
+        - Подготовка данных для рассылки.
+        - Автоматизация отчетов (Ecxel VBA).
+        - Поддержка в проекте FSS.
+      Skills: ["VBA", "MS Excel", "MS Access", "Word-Templates",  "Jira"]
+    - Name: Клерк основных данных клиента
+      Empolyer: Henry Schein Dental Deutschland GmbH, Langen, Германия
+      Website: https://www.henryschein-dental.de/dental.aspx?sc_lang=de-de&hssc=1
+      StartDate: 01/2018
+      EndDate: 03/2018
+      Details:
+        - Сбор и обработка основных данных клиентов.
+        - Просмотр и корректировка основных данных.
+        - Специальные задания по мере необходимости.
+      Skills: ["SAP", "MS Excel", "мастер-данных"]
+    - Name: Временные работник
+      Empolyer: rentaman Gesellschaft für Dienstleistungen auf Zeit mbH, Франкфурт, Германия
+      Website: https://rentaman.de/
+      StartDate: 10/2017
+      EndDate: 12/2017
+      Details:
+        - Работа в области комплаенс в компании Deutsche Börse.
+      Skills: ["Finance", "Trading"]
+    - Name: Рабочий студент & практика
+      Empolyer: Autoliv B.V. & Co. KG, Holzgerlingen, Германия
+      Website: https://www.autoliv.com/
+      StartDate: 06/2016
+      EndDate: 02/2017
+      Details:
+        - Оценка расходов по объекту на персонал.
+        - Оценка проектных часов (Целевые и фактические).
+      Skills: ["MS Excel", "VBA"]
+    - Name: Помощник студента в службе поддержки клиентов и инвентаризации
+      Empolyer: Allianz Deutschland AG, Штутгарт, Германия
+      Website: https://www.allianz.de/
+      StartDate: 01/2016
+      EndDate: 03/2016
+      Details:
+        - Обработка основных данных.
+      Skills: ["мастер-данных"]
+    - Name: Рабочий студент
+      Empolyer: Daimler AG, Эсслинген на Некаре, Германия
+      Website: https://www.daimler.com/de/
+      StartDate: 12/2014
+      EndDate: 05/2015
+      Details:
+        - Обработка основных данных.
+        - Оценка Места возникновения затрат.
+      Skills: ["SAP", "MS Excel", "мастер-данных"]
+    - Name: Стажёр
+      Empolyer: Börse Stuttgart, Штутгарт, Германия
+      Website: https://www.boerse-stuttgart.de/en/
+      StartDate: 10/2013
+      EndDate: 03/2014
+      Details:
+        - Очистка мастер-данных.
+        - Мониторинг качества мастер-данных.
+        - Редактирование описания процесса.
+      Skills: ["Finance", "Trading", "Xetra", "Reuters"]
+
+FurtherEducation:
+  Title: Дальнейшее образование
+  Icon: fas fa-chalkboard-teacher
+  Sections:
+    - Name: Data Science und Business Analytics
+      Organisation: Kempten University of Applied Sciences, Kempten, Германия
+      Website: https://www.hs-kempten.de/en/
+      StartDate: 11/2019
+      EndDate: 04/2020
+      Qualification: Сертификат
+     
+AcademicEducation:
+  Title: Академическое образование
+  Icon: fas fa-graduation-cap
+  Sections:
+    - Name: Экономика
+      Organisation: Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen, Nuertingen, Германия
+      Website: https://www.hfwu.com/
+      StartDate: 03/2011
+      EndDate: 08/2016
+      Qualification: Bachelor of Science
+    - Name: Германистик
+      Organisation: Узбекский государственный университет мировых языков, Ташкент, Узбекистан
+      Website: http://www.uzswlu.uz/
+      StartDate: 09/2006
+      EndDate: 02/2009
+      Qualification: Не завершен
+
+SchoolEducation:
+  Title: Школьное образование
+  Icon: fas fa-school
+  Sections:
+    - Name: Подготовительный колледж
+      Organisation: HTWG Konstanz - University of Applied Sciences, Констанц, Германия
+      Website: https://www.htwg-konstanz.de/en/
+      StartDate: 03/2010
+      EndDate: 02/2011
+      Qualification: Вступительная квалификация
+    - Name: Средняя школа
+      Organisation: в Шахрисабзе, Узбекистан
+      Website: https://en.wikipedia.org/wiki/Shahrisabz
+      StartDate: 09/1995
+      EndDate: 07/2006
+      Qualification: Аттестат 
+
+SkillsIT:
+  Title: IT-  Навыки
+  Icon: fas fa-sliders-h
+  List: 
+    - Name: HTML & CSS
+
+Languages:
+  Title: Языковые умения
+  Icon: fas fa-language
+  Items:
+    - Узбекский (родной)
+    - Немецкий (Level C1)
+    - Английский (Level B1)
+    - Русский (Level A2)
+
+Interests:
+  Title: Интересы
+  Icon: fas fa-chess
+  Items:
+    - Спорт (пробежки)
+    - Почитать
+    - Узнать что-то новое
+    - Data Science
+
+Contacts2:
+  Title: Контакт
+  Icon: fas fa-address-card
+  Contacts:
+    - Icon: fas fa-user
+      Name: Имя
+      Value: Фазлиддин Султонов
+    - Icon: fas fa-map-marker-alt
+      Name: Адрес
+      Value: Kirchhainer Str. 51, 60433 Франкфурт, Германия
+    - Icon: fas fa-mobile-alt
+      Name: Телефон
+      Value: +49 (0) 1525 3686829
+    - Icon: fas fa-envelope
+      Name: E-мейл
+      Value: sultanov@emailn.de
+    - Icon: fas fa-globe
+      Name: Вебсайт
+      Value: sultonov.co

@@ -1,0 +1,201 @@
+PersonalData:
+  Title: Personal Data
+  Icon: fas fa-user
+  Suffix: "- CV"
+  Name: Fazliddin Sultonov
+  CurrentWorkplace: Canada Life Assurance Europe plc
+  Contacts:
+    - Icon: fas fa-user
+      Name: Name
+      Value: Fazliddin Sultonov
+    - Icon: fas fa-map-marker-alt
+      Name: Address
+      Value: Kirchhainer Str. 51, 60433 Frankfurt, Germany
+    - Icon: fas fa-mobile-alt
+      Name: Phone
+      Value: +49 (0) 1525 3686829
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: sultanov@emailn.de
+    - Icon: fas fa-globe
+      Name: Website
+      Value: sultonov.co
+    - Icon: far fa-calendar-alt
+      Name: Date of birth
+      Value: 09.02.1988
+    - Icon: fas fa-globe-americas
+      Name: Place of birth
+      Value: Kashkadarya, Uzbekistan
+
+BriefProfile:
+  Title: Brief Profile
+  Icon: fas fa-th-list
+  Sections:
+    - Name: Soft Skills
+      Items:
+        - Determined
+        - Flexibility
+        - Resilience
+        - Teamwork
+        - Social competence
+        - Willingness to learn
+        - Acquiring new knowledge
+
+Experience:
+  Title: Experience
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: Business Customisation Administrator
+      Empolyer: Canada Life Assurance Europe plc, Neu-Isenburg, Germany
+      Website: https://www.canadalife.de/
+      StartDate: 07/2018
+      EndDate: Current
+      Details:
+        - Creatiing of daily, weekly, monthly admin reports.
+        - Data preparation for the mailshots.
+        - Automation of Reports (Ecxel VBA).
+        - Support in the FSS project.
+      Skills: ["VBA", "MS Excel", "MS Access", "Word-Templates",  "Jira"]
+    - Name: Person responsible in the area of customer master data
+      Empolyer: Henry Schein Dental Deutschland GmbH, Langen, Germany
+      Website: https://www.henryschein-dental.de/dental.aspx?sc_lang=de-de&hssc=1
+      StartDate: 01/2018
+      EndDate: 03/2018
+      Details:
+        - Recording and processing of customer master data.
+        - Review and adjustment of master data.
+        - Special tasks according to need.
+      Skills: ["SAP", "MS Excel", "Master data"]
+    - Name: Employee
+      Empolyer: rentaman Gesellschaft für Dienstleistungen auf Zeit mbH, Frankfurt, Germany
+      Website: https://rentaman.de/
+      StartDate: 10/2017
+      EndDate: 12/2017
+      Details:
+        - Work in Compliance at Deutsche Börse.
+      Skills: ["Finance", "Trading"]
+    - Name: Working student & internship
+      Empolyer: Autoliv B.V. & Co. KG, Holgerlingen, Germany
+      Website: https://www.autoliv.com/
+      StartDate: 06/2016
+      EndDate: 02/2017
+      Details:
+        - Evaluation of location and labor costs.
+        - Evaluation of project hours (Target and actual hours).
+      Skills: ["MS Excel", "VBA"]
+    - Name: Student Assistant in customer and inventory service
+      Empolyer: Allianz Deutschland AG, Stuttgart, Germany
+      Website: https://www.allianz.de/
+      StartDate: 01/2016
+      EndDate: 03/2016
+      Details:
+        - Editing of master data.
+      Skills: ["Master data"]
+    - Name: Working student
+      Empolyer: Daimler AG, Esslingen am Neckar, Germany
+      Website: https://www.daimler.com/en/
+      StartDate: 12/2014
+      EndDate: 05/2015
+      Details:
+        - Editing of master data.
+        - Evaluation of cost centers.
+      Skills: ["SAP", "MS Excel", "Master data"]
+    - Name: Internship
+      Empolyer: Börse Stuttgart, Stuttgart, Germany
+      Website: https://www.boerse-stuttgart.de/en/
+      StartDate: 10/2013
+      EndDate: 03/2014
+      Details:
+        - cleanup of master data.
+        - Monetoring of data quality
+        - Editing the process descriptions
+      Skills: ["Finance", "Trading", "Xetra", "Reuters"]
+
+FurtherEducation:
+  Title: Further Education
+  Icon: fas fa-chalkboard-teacher
+  Sections:
+    - Name: Data Science und Business Analytics
+      Organisation: Kempten University of Applied Sciences, Kempten, Germany
+      Website: https://www.hs-kempten.de/en/
+      StartDate: 11/2019
+      EndDate: 04/2020
+      Qualification: Certificate
+     
+AcademicEducation:
+  Title: Academic Education
+  Icon: fas fa-graduation-cap
+  Sections:
+    - Name: Economics
+      Organisation: Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen, Nuertingen, Germany
+      Website: https://www.hfwu.com/
+      StartDate: 03/2011
+      EndDate: 08/2016
+      Qualification: Bachelor of Science
+    - Name: German studies
+      Organisation: Uzbekistan State University of World Languages, Tashkent, Uzbekistan
+      Website: http://www.uzswlu.uz/
+      StartDate: 09/2006
+      EndDate: 02/2009
+      Qualification: Not completed
+
+SchoolEducation:
+  Title: School Education
+  Icon: fas fa-school
+  Sections:
+    - Name: Preparatory college
+      Organisation: HTWG Konstanz - University of Applied Sciences, Constance, Germany
+      Website: https://www.htwg-konstanz.de/en/
+      StartDate: 03/2010
+      EndDate: 02/2011
+      Qualification: University entrance qualification
+    - Name: Secondary school
+      Organisation: in Shakhrisabz, Uzbekistan
+      Website: https://en.wikipedia.org/wiki/Shahrisabz
+      StartDate: 09/1995
+      EndDate: 07/2006
+      Qualification: School certificate 
+
+SkillsIT:
+  Title: IT- Skills
+  Icon: fas fa-sliders-h
+  List: 
+    - Name: HTML & CSS
+
+Languages:
+  Title: Language skills
+  Icon: fas fa-language
+  Items:
+    - Uzbek   (native)
+    - German  (Level C1)
+    - English (Level B1)
+    - Russian (Level A2)
+
+Interests:
+  Title: Interests
+  Icon: fas fa-chess
+  Items:
+    - Sport (Jogging)
+    - Reading
+    - Learn something new
+    - Data Science
+
+Contacts2:
+  Title: Contact
+  Icon: fas fa-address-card
+  Contacts:
+    - Icon: fas fa-user
+      Name: Name
+      Value: Fazliddin Sultonov
+    - Icon: fas fa-map-marker-alt
+      Name: Address
+      Value: Kirchhainer Str. 51, 60433 Frankfurt, Germany
+    - Icon: fas fa-mobile-alt
+      Name: Phone
+      Value: +49 (0) 1525 3686829
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: sultanov@emailn.de
+    - Icon: fas fa-globe
+      Name: Website
+      Value: sultonov.co
