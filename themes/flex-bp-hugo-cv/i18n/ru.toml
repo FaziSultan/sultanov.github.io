@@ -1,0 +1,41 @@
+[readmore]
+other = "Подробнее"
+
+[lastupdated]
+other = "последний обновлённый"
+
+[readingTime]
+one = "1 Minuto"
+other = "{{.Count}} Минуты"
+
+[social]
+other = "Социальные сети"
+
+[site]
+other = "Сайт"
+
+[translations]
+other="Переводы"
+
+[themeby]
+other = "Тема от"
+
+[madeby]
+other = "создан с"
+
+[error404]
+other = "Нам очень жаль, но здесь, кажется, ничего нет."
+
+[gotohome]
+other = "Переход на главную страницу"
+
+
+# Taxonomoy title hack
+[Categories]
+other = "Категории"
+[Categorie]
+other = "Категория"
+[Tags]
+other = "Этикетки"
+[Tag]
+other = "Этикет"
