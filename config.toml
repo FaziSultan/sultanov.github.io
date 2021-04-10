@@ -27,7 +27,7 @@ relativeURLs = true
 paginate = 6
 theme="flex-bp-hugo-cv"
 
-#publishDir = "../sultanov.github.io"
+publishDir = "../sultanov.github.io"
 
 [sitemap]
     changefreq = "weekly"
