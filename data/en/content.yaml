@@ -19,7 +19,7 @@ PersonalData:
       Value: sultanov@emailn.de
     - Icon: fas fa-globe
       Name: Website
-      Value: sultonov.net
+      Value: www.sultonov.net
     - Icon: far fa-calendar-alt
       Name: Date of birth
       Value: 09.02.1988
@@ -198,4 +198,4 @@ Contacts2:
       Value: sultanov@emailn.de
     - Icon: fas fa-globe
       Name: Website
-      Value: sultonov.net
+      Value: www.sultonov.net
