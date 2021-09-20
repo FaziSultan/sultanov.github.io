@@ -7,7 +7,7 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
+                hreflang="en"
                 href="/"
                 />
     <xhtml:link
@@ -17,8 +17,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="de"
+                href="/de/"
                 />
   </url>
 </urlset>
